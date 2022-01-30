@@ -162,3 +162,4 @@ Received Import Request.
 Start importing Assets/Samples/XR Interaction Toolkit/0.10.0-preview.7/Default Input Actions/XRI Default Right Controller.preset using Guid(1421ad86ff3787b4dae70fe9e699a25f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3f723d6baad3c6febce3a13c482af8') in 0.007826 seconds
   Import took 0.010281 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
